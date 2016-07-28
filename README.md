@@ -16,7 +16,8 @@
 ## Example   
 title:  Hello  
 body:   Everyone  
-users:  jncjacbaucbub233ijn  
-	knscahc89hqinwcjcca  
-	cnascanc8qehnfcacuc  
+users:   
+jncjacbaucbub233ijn  
+knscahc89hqinwcjcca  
+cnascanc8qehnfcacuc  
 
