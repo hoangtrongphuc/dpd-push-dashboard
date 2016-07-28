@@ -1,0 +1,28 @@
+{
+  "name": "dpd-push-dashboard",
+  "version": "1.0.0",
+  "description": "send push notification to client with dashboard, using FCM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Phuc Hoang"
+  },
+  "license": "ISC",
+  "dependencies": {
+  },
+  "_id": "dpd-push-dashboard@1.0.0",
+  "_npmVersion": "3.8.3",
+  "_nodeVersion": "5.10.1",
+  "_npmUser": {
+    "name": "hoangphuc",
+    "email": "dr.hoangphuc@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "hoangphuc",
+	  "email": "dr.hoangphuc@gmail.com"
+    }
+  ]
+}
