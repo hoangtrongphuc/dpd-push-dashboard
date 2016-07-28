@@ -1,8 +1,7 @@
 var Resource = require('deployd/lib/resource'),
     util = require('util'),
-	path = require('path'),
-    firebaseURL = "https://fcm.googleapis.com/fcm/send"
-
+    path = require('path');
+    
 function FCM(name, options) {
   Resource.apply(this, arguments);
 }
