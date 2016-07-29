@@ -1,6 +1,6 @@
 {
   "name": "dpd-push-dashboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "send push notification to client with dashboard, using FCM",
   "main": "index.js",
   "scripts": {
