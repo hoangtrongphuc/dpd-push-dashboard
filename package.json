@@ -9,6 +9,10 @@
   "author": {
     "name": "Phuc Hoang"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoangtrongphuc/dpd-push-dashboard.git"
+  },
   "license": "ISC",
   "dependencies": {
   },
