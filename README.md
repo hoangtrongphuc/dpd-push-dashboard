@@ -7,7 +7,7 @@
 
 ## Install  
 
-	npm install --save deployd-push-dashboard
+	npm install --save dpd-push-dashboard
 
 ## Usage  
 
